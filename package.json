@@ -1,0 +1,18 @@
+{
+  "name": "corretoraipro-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.0",
+    "next": "14.2.3",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
