@@ -1,4 +1,4 @@
-# 🏦 CorretoraIPRO – API Oficial
+# 🏦 CorretorAIPro – API Oficial
 
 API moderna desenvolvida em **Next.js 14**, integrada com **Stripe** e **Supabase**, projetada para operações seguras e escaláveis, incluindo:
 
